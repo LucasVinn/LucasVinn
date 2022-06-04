@@ -1,16 +1,15 @@
-### Hi there 👋
+### Fala Rapeize! Aqui é o Lucas👋
+
+- 🔭 Atualmente desenvolvo para front-end, ainda não possuo trabalho na área.
+- 🌱 Atualmente sou um estudante de front-end, focado em HTML, CSS e Javascrit!
+- 📫 Contate-me no email: lucas2006barros@gmail.com
+- 😄 Pronouns: Ele/Dele
+<div align="center">
+  <a href="https://github.com/LucassVinn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
-**LucasVinn/LucasVinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ""
 -->
