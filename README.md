@@ -1,6 +1,6 @@
 ### Fala Rapeize! Aqui é o Lucas👋
 
-- 🔭 Atualmente desenvolvo para front-end, ainda não possuo trabalho na área.
+- 🔭 Atualmente desenvolvo para front-end, ainda não atuo no mercado de trabalho.
 - 🌱 Atualmente sou um estudante de front-end, focado em HTML, CSS e Javascript!
 - 📫 Contate-me no email: lucas2006barros@gmail.com
 - 😄 Pronouns: Ele/Dele
